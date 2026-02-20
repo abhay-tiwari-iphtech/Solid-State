@@ -44,4 +44,4 @@ project-folder/
 
 ## 📸 Preview
 
-<img src="./asset/images/preview.png">
+<img src="./asset/images/preview.gif">
