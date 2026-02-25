@@ -36,7 +36,6 @@ project-folder/
 ├── index.html
 ├── assets/
 │   ├── css/
-│   ├── js/
 │   └── images/
 └── README.md
 
